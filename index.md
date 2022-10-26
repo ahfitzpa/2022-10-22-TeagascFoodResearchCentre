@@ -244,6 +244,7 @@ Display the contact email address set in the configuration file.
 
 {% comment %}
 WHO CAN ATTEND?
+{% endcomment %}
 
 If you would like to specify who can attend the workshop,
 you can use the section below.
@@ -252,9 +253,8 @@ Move the 'endcomment' tag above the beginning of the following
 <p> tag to make this section visible.
 
 Edit the text to match who can attend the workshop. For instance:
-- This workshop is open to affiliates to ABC university.
-- This workshop is open to the public.
-- If you are interested in attending this workshop, contact me@example.com
+- This workshop is open to Teagasc Food Research Centre employees, PhD students and associates.
+- If you are interested in attending this workshop, contact amy.fitzpatrick@teagasc.ie
   for more information
 
 <p id="who-can-attend">
