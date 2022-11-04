@@ -295,7 +295,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use Slack <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code. You can request this from ICT on your Teagasc laptop or access via browser. Please note, that you must use your Teagasc email address to access the Slack channel. 
+We will use a <a href="{{ page.collaborative_notes }}">Slack channel</a> for chatting, taking notes, and sharing URLs and bits of code. You can request this from ICT on your Teagasc laptop or access via browser. Please note, that you must use your Teagasc email address to access the Slack channel. 
 </p>
 <hr/>
 {% endif %}
