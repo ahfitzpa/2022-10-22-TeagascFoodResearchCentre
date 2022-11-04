@@ -179,7 +179,7 @@ Modify the block below if there are any special requirements.
   <strong>Requirements:</strong>
   {% if online == "false" %}
     Participants must bring a laptop with a
-    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.).
+    Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.). For the HPC lesson, please request access to the Teagasc High Performance Cluster by emailing your line manager. In addition download SolarPutty (https://www.solarwinds.com/free-tools/solar-putty) and WinSCP (https://winscp.net/eng/download.php).
   {% else %}
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
