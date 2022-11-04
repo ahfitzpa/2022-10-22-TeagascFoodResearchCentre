@@ -197,14 +197,8 @@ special instructions.
   <strong>Accessibility:</strong>
 {% if online == "false" %}
   We are committed to making this workshop
-  accessible to everybody.  
+  accessible to everybody, please let us know how we can help you.   
   
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
 </p>
 {% else %}
   We are dedicated to providing a positive and accessible learning environment for all. Please
@@ -301,7 +295,7 @@ available at https://codimd.carpentries.org
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use Slack <a href="{{ page.collaborative_notes }}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code. You can request this from ICT on your Teagasc laptop or access via browser. Please note, that you must use your Teagasc email address to access the Slack channel. 
 </p>
 <hr/>
 {% endif %}
